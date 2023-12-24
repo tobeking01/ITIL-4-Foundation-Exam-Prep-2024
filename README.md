@@ -34,6 +34,9 @@ Contributions to this repository are welcome! If you have additional resources, 
 
 The questions and answers in these presentations are based on past exams but are not guaranteed to appear on future exams. They are provided for study purposes only and are intended to complement your exam preparation efforts.
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
 
