@@ -44,7 +44,11 @@ Happy studying, and best of luck with your ITIL 4 Foundation Exam in 2024!
 
 ## Below are some sample questions:
 
-![image](https://github.com/tobeking01/ITIL-4-Foundation-Exam-Prep-2024/assets/78264849/75b438af-3193-44fb-a9c4-cfd2faab33fe)
+![image](https://github.com/tobeking01/ITIL-4-Foundation-Exam-Prep-2024/assets/78264849/a8e6b4ad-7ecd-4f3b-95e5-5a30d35a017f)
 ![image](https://github.com/tobeking01/ITIL-4-Foundation-Exam-Prep-2024/assets/78264849/62977c3b-1239-490a-95f4-f88a12228f53)
 ![image](https://github.com/tobeking01/ITIL-4-Foundation-Exam-Prep-2024/assets/78264849/675f211e-2cc1-407b-8437-ec1fed1b6665)
 ![image](https://github.com/tobeking01/ITIL-4-Foundation-Exam-Prep-2024/assets/78264849/a592275f-ad36-4fa6-8e66-90167675791e)
+![image](https://github.com/tobeking01/ITIL-4-Foundation-Exam-Prep-2024/assets/78264849/794bdc8d-809b-4b0a-83f1-a61da6627315)
+![image](https://github.com/tobeking01/ITIL-4-Foundation-Exam-Prep-2024/assets/78264849/1a3ed495-7675-4f75-b066-2a9aab67b50c)
+![image](https://github.com/tobeking01/ITIL-4-Foundation-Exam-Prep-2024/assets/78264849/fecd2024-84d3-4357-865c-917edc82b01d)
+![image](https://github.com/tobeking01/ITIL-4-Foundation-Exam-Prep-2024/assets/78264849/705d09ec-6959-415f-893a-57c51c1cd587)
